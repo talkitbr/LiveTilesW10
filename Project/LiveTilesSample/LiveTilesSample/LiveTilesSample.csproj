@@ -112,6 +112,13 @@
     <None Include="LiveTilesSample_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\Square310x310.png" />
+    <Content Include="Assets\Square310x310Logo.scale-100.png" />
+    <Content Include="Assets\Tile150x150.png" />
+    <Content Include="Assets\Tile150x150Transparent.png" />
+    <Content Include="Assets\Tile150x150White.png" />
+    <Content Include="Assets\Tile310x150.png" />
+    <Content Include="Assets\Tile310x310.scale-100.png" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />
